@@ -1,0 +1,5 @@
+ghidra_bridge
+IPython
+ipykernel
+jupyter_client
+jupyter
