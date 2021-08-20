@@ -10,7 +10,10 @@ kernel_json = {"argv": [sys.executable, "-m", "ghidra-notebook", "-f", "{connect
  "display_name": "Ghidra",
  "language": "python3",
  "codemirror_mode": "python3",
- "env": {}
+ "env": {},
+  "metadata": {
+  "debugger": True
+ }
 }
 
 
